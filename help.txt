@@ -1,0 +1,12 @@
+           - - - - - - - - - - - - - - - - - - -FOR MAIN MENU- - - - - - - - - - - - - - - - -                        
+-Press d to select the option in the main menu
+-Press s and w to navigate the menu items.
+           - - - - - - - - - - - - - - - - - - -FOR GAME- - - - - - - - - - - - - - - - - - -
+-press w to move the object upward.
+-press s to move the object upward.
+-press d to hit the enemy
+The green coloured rectangular objects are the enemy.
+Press d to hit the enemy with bullets.
+If the main object crosses the platform and strikes the bottom and top part*
+of the screen the game is over.
+           - - - - - - - - - - - - - - - - - - -!!!ENJOY!!!- - - - - - - - - - - - - - - - - - -
